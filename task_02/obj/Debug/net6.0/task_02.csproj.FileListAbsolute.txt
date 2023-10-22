@@ -1,0 +1,5 @@
+C:\Users\Анастасия\Desktop\C sharp\C sharp\Семинары\6 семинар одномерные массивы\task\task_02\obj\Debug\net6.0\task_02.csproj.AssemblyReference.cache
+C:\Users\Анастасия\Desktop\C sharp\C sharp\Семинары\6 семинар одномерные массивы\task\task_02\obj\Debug\net6.0\task_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анастасия\Desktop\C sharp\C sharp\Семинары\6 семинар одномерные массивы\task\task_02\obj\Debug\net6.0\task_02.AssemblyInfoInputs.cache
+C:\Users\Анастасия\Desktop\C sharp\C sharp\Семинары\6 семинар одномерные массивы\task\task_02\obj\Debug\net6.0\task_02.AssemblyInfo.cs
+C:\Users\Анастасия\Desktop\C sharp\C sharp\Семинары\6 семинар одномерные массивы\task\task_02\obj\Debug\net6.0\task_02.csproj.CoreCompileInputs.cache
