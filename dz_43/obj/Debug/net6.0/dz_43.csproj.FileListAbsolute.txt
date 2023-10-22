@@ -1,0 +1,15 @@
+C:\Users\Анастасия\Desktop\C sharp\C sharp\Семинары\6 семинар одномерные массивы\task\dz_43\bin\Debug\net6.0\dz_43.exe
+C:\Users\Анастасия\Desktop\C sharp\C sharp\Семинары\6 семинар одномерные массивы\task\dz_43\bin\Debug\net6.0\dz_43.deps.json
+C:\Users\Анастасия\Desktop\C sharp\C sharp\Семинары\6 семинар одномерные массивы\task\dz_43\bin\Debug\net6.0\dz_43.runtimeconfig.json
+C:\Users\Анастасия\Desktop\C sharp\C sharp\Семинары\6 семинар одномерные массивы\task\dz_43\bin\Debug\net6.0\dz_43.dll
+C:\Users\Анастасия\Desktop\C sharp\C sharp\Семинары\6 семинар одномерные массивы\task\dz_43\bin\Debug\net6.0\dz_43.pdb
+C:\Users\Анастасия\Desktop\C sharp\C sharp\Семинары\6 семинар одномерные массивы\task\dz_43\obj\Debug\net6.0\dz_43.csproj.AssemblyReference.cache
+C:\Users\Анастасия\Desktop\C sharp\C sharp\Семинары\6 семинар одномерные массивы\task\dz_43\obj\Debug\net6.0\dz_43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анастасия\Desktop\C sharp\C sharp\Семинары\6 семинар одномерные массивы\task\dz_43\obj\Debug\net6.0\dz_43.AssemblyInfoInputs.cache
+C:\Users\Анастасия\Desktop\C sharp\C sharp\Семинары\6 семинар одномерные массивы\task\dz_43\obj\Debug\net6.0\dz_43.AssemblyInfo.cs
+C:\Users\Анастасия\Desktop\C sharp\C sharp\Семинары\6 семинар одномерные массивы\task\dz_43\obj\Debug\net6.0\dz_43.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\C sharp\C sharp\Семинары\6 семинар одномерные массивы\task\dz_43\obj\Debug\net6.0\dz_43.dll
+C:\Users\Анастасия\Desktop\C sharp\C sharp\Семинары\6 семинар одномерные массивы\task\dz_43\obj\Debug\net6.0\refint\dz_43.dll
+C:\Users\Анастасия\Desktop\C sharp\C sharp\Семинары\6 семинар одномерные массивы\task\dz_43\obj\Debug\net6.0\dz_43.pdb
+C:\Users\Анастасия\Desktop\C sharp\C sharp\Семинары\6 семинар одномерные массивы\task\dz_43\obj\Debug\net6.0\dz_43.genruntimeconfig.cache
+C:\Users\Анастасия\Desktop\C sharp\C sharp\Семинары\6 семинар одномерные массивы\task\dz_43\obj\Debug\net6.0\ref\dz_43.dll
