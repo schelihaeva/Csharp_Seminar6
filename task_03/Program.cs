@@ -21,5 +21,5 @@ void ConvertToBinary(int num) //решение задачи при помощи 
 int dec = ReadInt("Введите число: ");
 ConvertToBinary(dec);
 
-//System.Console.WriteLine(Convert.ToString(dec, 2));
+//System.Console.WriteLine(Convert.ToString(dec, 2)); //конвертация в двуичное число
 
